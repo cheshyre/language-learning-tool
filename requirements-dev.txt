@@ -1,0 +1,8 @@
+# Library dependencies
+-r requirements.txt
+
+# Testing
+nose
+
+# Documentation
+pdoc3
